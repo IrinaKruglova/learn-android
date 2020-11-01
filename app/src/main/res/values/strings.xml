@@ -1,5 +1,3 @@
 <resources>
     <string name="app_name">LearnAndroidApp</string>
-    <string name="phrase">The cake is a lie</string>
-    <string name="phrase2">The cake is NOT a lie</string>
 </resources>
